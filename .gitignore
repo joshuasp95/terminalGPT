@@ -105,3 +105,8 @@ dist
 
 *.txt
 *.jsonl
+
+#joshuasp95 ignore files
+.gitignore.swp
+package-lock.json
+yarn.lock
